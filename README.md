@@ -1,4 +1,4 @@
-# cTTN_constraint
+# cTTN
 
 This repo contains the code used in the statistical analysis of genetic constraint of cTTN. 
 
