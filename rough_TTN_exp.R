@@ -5,7 +5,6 @@
 
 #How to get the all possible syn sites:
 #From the synthetic file of ExAC, extract the ones in the exon position with the corresponding conseq
-setwd("~/Desktop/OneDrive/OneDrive - Imperial College London/TTN/circularRNA/Constraint_analysis")
 get_column_index<-function(col_name,col_list){
   return(which(col_list==col_name))
 }
